@@ -1,0 +1,22 @@
+{
+  "name": "coda",
+  "version": "1.0.0",
+  "description": "Coda global app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "banu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
+    "hammerjs": "^2.0.8",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.11.4",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.3"
+  }
+}
